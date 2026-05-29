@@ -41,19 +41,6 @@ O sistema utiliza o modelo **MobileNetV2** com quantização **INT8** via **Tens
 
 ---
 
-## 🎬 Vídeo de Apresentação (YouTube)
-
-📺 **[https://www.youtube.com/watch?v=<ID_DO_VIDEO>](https://www.youtube.com/watch?v=<ID_DO_VIDEO>)**
-
-O vídeo (máx. 5 minutos) contém:
-- Apresentação dos integrantes, disciplina e instituição
-- Definição do problema e motivação
-- Explicação da arquitetura Edge AI (CNN + TFLite + LoRaWAN)
-- Demonstração de inferência local no Raspberry Pi 4
-- Navegação pelo repositório GitHub
-
----
-
 ## 🗂️ Estrutura do Repositório
 
 ```
